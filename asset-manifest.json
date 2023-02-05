@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sarah-24/static/css/main.3188750b.css",
-    "main.js": "/sarah-24/static/js/main.8fe139cb.js",
+    "main.css": "/sarah-24/static/css/main.59c817f7.css",
+    "main.js": "/sarah-24/static/js/main.8342c5a5.js",
     "index.html": "/sarah-24/index.html",
-    "main.3188750b.css.map": "/sarah-24/static/css/main.3188750b.css.map",
-    "main.8fe139cb.js.map": "/sarah-24/static/js/main.8fe139cb.js.map"
+    "main.59c817f7.css.map": "/sarah-24/static/css/main.59c817f7.css.map",
+    "main.8342c5a5.js.map": "/sarah-24/static/js/main.8342c5a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.3188750b.css",
-    "static/js/main.8fe139cb.js"
+    "static/css/main.59c817f7.css",
+    "static/js/main.8342c5a5.js"
   ]
 }
