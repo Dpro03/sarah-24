@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sarah-24/static/css/main.3188750b.css",
+    "main.js": "/sarah-24/static/js/main.8fe139cb.js",
+    "index.html": "/sarah-24/index.html",
+    "main.3188750b.css.map": "/sarah-24/static/css/main.3188750b.css.map",
+    "main.8fe139cb.js.map": "/sarah-24/static/js/main.8fe139cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3188750b.css",
+    "static/js/main.8fe139cb.js"
+  ]
+}
